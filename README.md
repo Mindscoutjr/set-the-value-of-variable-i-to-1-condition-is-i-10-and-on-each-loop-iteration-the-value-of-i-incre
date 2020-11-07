@@ -1,1 +1,10 @@
-# set-the-value-of-variable-i-to-1-condition-is-i-10-and-on-each-loop-iteration-the-value-of-i-incre
+#include <iostream>
+
+using namespace std;
+
+int main() {
+        for (int i = 1; i <= 10; ++i) {
+        cout << i << " \n";
+    }
+    return 0;
+}
