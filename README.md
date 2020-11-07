@@ -1,0 +1,1 @@
+# set-the-value-of-variable-i-to-1-condition-is-i-10-and-on-each-loop-iteration-the-value-of-i-incre
